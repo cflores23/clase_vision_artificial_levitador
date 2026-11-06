@@ -60,4 +60,4 @@ La práctica se divide en **8 fases secuenciales y auto-explicativas**:
 
 ## 💡 Metodología de Integración en el Aula
 
-Esta clase forma parte del **Marco de Evaluación Transversal 80/20**, donde los alumnos combinan un 80% de desarrollo técnico-práctico en electrónica/matemáticas con un 20% de habilidades de pensamiento creativo e innovación (metodologías CPS y reencuadre de problemas). Los resultados de este cuaderno sirven como la memoria de cálculo del módulo de percepción en el proyecto integrador final del semestre Levitador Magnético.
+Esta clase forma parte del **Marco de Evaluación Transversal 80/20**, donde los alumnos combinan un 80% de desarrollo técnico-práctico en electrónica/matemáticas/ciencias con un 20% de habilidades de pensamiento creativo e innovación. Los resultados de este cuaderno sirven como la memoria de cálculo del módulo de percepción en el proyecto integrador final del semestre Levitador Magnético.
