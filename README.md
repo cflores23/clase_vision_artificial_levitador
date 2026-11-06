@@ -5,6 +5,7 @@
 **Nivel Educativo:** Bachillerato (Taller de Ciencias II y Electrónica / Proyectos STEM Integrados). 
 
 **Proyecto:** Levitador acústico.
+
 **Entorno de Ejecución:** Python 3 | OpenCV | NumPy | Matplotlib | Google Colab.
 
 ---
