@@ -2,7 +2,8 @@
 
 **Autor:** Prof. Camilo Flores Rodríguez  
 **Áreas:** Visión por Computadora, Electrónica, Mecatrónica, Pensamiento Matemático.  
-**Nivel Educativo:** Bachillerato (Taller de Ciencias II y Electrónica / Proyectos STEM Integrados). 
+**Nivel Educativo:** Bachillerato (Taller de Ciencias II y Electrónica / Proyectos STEM Integrados).
+
 **Proyecto:** Levitador acústico.  
 **Entorno de Ejecución:** Python 3 | OpenCV | NumPy | Matplotlib | Google Colab.
 
