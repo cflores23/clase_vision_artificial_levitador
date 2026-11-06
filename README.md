@@ -51,9 +51,8 @@ La práctica se divide en **8 fases secuenciales y auto-explicativas**:
 
 ## 🚀 Cómo Ejecutar esta Práctica
 
-1. Abre el archivo `.ipynb` incluido en este repositorio: `Practica_Vision_Artificial_Imagen_Real_Colab.ipynb`.
-2. Haz clic en el botón **"Open in Colab"** o súbelo directamente a tu sesión de [Google Colab](https://colab.research.google.com/).
-3. Ejecuta las celdas en orden. El cuaderno descargará automáticamente las imágenes de muestra desde Internet y procesará todas las fases sin necesidad de configuraciones adicionales.
+1. Da clic en el siguiente enlace: https://colab.research.google.com/drive/1b4JXlzs2Aaj2fwkGYBvwsxTHKaHdrMAb?usp=sharing
+2. Ejecuta las celdas en orden. El cuaderno descargará automáticamente las imágenes de muestra desde Internet y procesará todas las fases sin necesidad de configuraciones adicionales.
 
 ---
 
